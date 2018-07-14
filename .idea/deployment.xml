@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="git@github.com:JonXia/Deeplearning-note.git" uploadOnCheckin="0c951ef7-e1c0-4d48-967a-eeea7e7065df">
+    <serverData>
+      <paths name="git@github.com:JonXia/Deeplearning-note.git">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="git@github.com:JonXia/Deeplearning-note.git" />
+  </component>
+</project>
