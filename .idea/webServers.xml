@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="0c951ef7-e1c0-4d48-967a-eeea7e7065df" name="git@github.com:JonXia/Deeplearning-note.git">
-        <fileTransfer port="21">
+        <fileTransfer host="" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
